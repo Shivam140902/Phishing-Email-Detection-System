@@ -37,10 +37,3 @@ It analyzes the content of an email (subject, body, sender, and URLs) and predic
   - `joblib`
 
 ---
-
-## ⚙️ Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/phishing-detector.git
-   cd phishing-detector
